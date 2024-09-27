@@ -1,7 +1,7 @@
 <h1 align="center">SysMon</h1>
 
 <p align="center">
-	<img width=800px src="./assets/example.png" alt="Script Output Image">
+	<img width=800px src="https://i.imgur.com/P8ilPL4.png" alt="Script Output Image">
 </p>
 
 ## Purpose
